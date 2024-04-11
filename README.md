@@ -6,7 +6,7 @@ Hierna hebben we het interview met Petra gehad. In het begin was het een beetje 
 
 Wat ik vandaag geleerd heb is hoe blinde mensen daadwerkelijk gebruik maken van een website. Ook realiseer ik me nu hoe belangrijk naamgeving en een omschrijving van elementen kan zijn. Iets is al snel onduidelijk.
 
-### 04-04-2024 & 05-04-2024
+### Ziek (04-04-2024 & 05-04-2024)
 Beide dagen was ik erg ziek en kon ik niet aan de opdracht werken of feedback krijgen.
 
 ### Ontwerp applicatie (10-04-2024)
@@ -16,7 +16,7 @@ Bij nader inzien heb ik het ontwerp aangepast. Ik wilde graag met een json werke
 
 Dit ontwerp ga ik morgen laten testen door Petra. Mijn waarnemingen ga ik noteren.
 
-### Feedback 11-04-2024
+### Testen ronde 1 (11-04-2024)
 Het testen zelf ging een beetje chaotisch door het gebruik van de screenreader. In het vervolg wil ik dit zo maken dat ze zelf makkelijk door de applicatie heen kan gaan, want nu moest ik haar een beetje helpen. Ze vond het fijn dat de resultaten in boxen worden getoond, zodat ze hier makkelijk doorheen kan lopen. Hierdoor hoeft ze niet steeds alle informatie van de resultaten aan te horen. 
 
 Wat ik nog eventueel kan toevoegen is een optie om de kledingstijl aan te geven in het formulier. Verder waren er niet veel opmerkingen en kan ik het concept nog verder uitwerken. Wellicht kom ik in de toekomst nog dingen tegen die handig kunnen zijn. 
