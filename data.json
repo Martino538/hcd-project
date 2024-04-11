@@ -1,0 +1,68 @@
+{
+    "kleding": {
+        "bovenkleding": {
+            "tshirt": {
+                "lange-mouw": [
+                    {"id": "1", "merk": "Adidas", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "2", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "3", "merk": "Tommy Hilfiger", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"}
+                ],
+                "korte-mouw": [
+                    {"id": "4", "merk": "Stone Island", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "5", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"}
+                ]
+            },
+            "trui": [
+                {"id": "6", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                {"id": "7", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"}
+            ],
+            "blazer": [
+                {"id": "8", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                {"id": "9", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"}
+            ],
+            "jas": [
+                {"id": "10", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                {"id": "11", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"}
+            ]
+        },
+        "onderkleding": {
+            "broek": {
+                "lange-broek": [
+                    {"id": "12", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "13", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "14", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"}
+                ],
+                "korte-broek": [
+                    {"id": "15", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "16", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "17", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"}
+                ]
+            },
+            "schoenen": {
+                "sneaker": [
+                    {"id": "18", "merk": "nike", "kleur": "wit", "kenmerk": "Wit met blauwe accenten"},
+                    {"id": "19", "merk": "adidas", "kleur": "zwart", "kenmerk": "Sportschoenen"}
+                ],
+                "laarzen": [
+                    {"id": "20", "merk": "test1", "kleur": "bruin", "kenmerk": "Net nieuwe laarzen"},
+                    {"id": "21", "merk": "test1", "kleur": "zwart", "kenmerk": "Mijn favoriete laarzen"}
+                ]
+            }
+        }
+    },
+    "soortenKleuren": [
+        {"naam": "Blauw"},
+        {"naam": "Rood"},
+        {"naam": "Groen"},
+        {"naam": "Geel"},
+        {"naam": "Oranje"},
+        {"naam": "Paars"},
+        {"naam": "Roze"},
+        {"naam": "Zwart"},
+        {"naam": "Wit"},
+        {"naam": "Grijs"},
+        {"naam": "Beige"},
+        {"naam": "Turkoois"},
+        {"naam": "Bruin"}
+    ]
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('../partials/head.ejs'); %>
+    <title>Martijn's API site</title>
+</head>
+<body>
+    <main>
+        <div class="container">
+            <h1>Matchende resultaten:</h1>
+            <ul>
+                <% filteredKleding.forEach((item) => { %>
+                    <li>
+                        <p><%= item.type %></p>
+                        <p>Kleur: <%= item.kleur %></p>
+                        <p>Merk: <%= item.merk %></p>
+                        <p>Kenmerk: <%= item.kenmerk %>
+                    </li>
+                <% }); %>
+            </ul>
+        </div>
+    </main>
+</body>
+</html>

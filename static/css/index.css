@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+    --font-family: "Roboto", sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: var(--font-family);
+}
+
+main {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+    height: 100vh;
+    gap: 30px;
+
+    p {
+        text-align: center;
+    }
+}
+
+.product-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    column-gap: 50px;
+}
+
+.product {
+    width: 250px;
+    height: 250px;
+
+    button {
+        height: 100%;
+        width: 100%;
+        background-color: blue;
+        color: white;
+        font-size: 20px;
+        border: none;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+
+        input {
+            width: fit-content;
+        }
+    }
+}
+
+ul {
+    display: flex;
+    gap: 50px;
+    
+    li {
+        list-style-type: none;
+        background-color: blue;
+        padding: 15px;
+        color: white;
+        border-radius: 5px;
+    }
+}

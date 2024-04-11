@@ -1,0 +1,24 @@
+{
+    "kleding": [
+        {"id": "1", "categorie": "bovenkleding", "type": "T-shirt", "merk": "Hema", "kleur": "Wit", "kenmerk": "Wit met blauwe lijnen"},
+        {"id": "2", "categorie": "bovenkleding", "type": "Trui", "merk": "Nike", "kleur": "Wit", "kenmerk": "Witte trui met paarse accenten"},
+        {"id": "3", "categorie": "bovenkleding", "type": "Blazer", "merk": "Zara", "kleur": "Zwart", "kenmerk": "Zwarte blazer, strak om het lichaam"},
+        {"id": "4", "categorie": "onderkleding", "type": "Broek", "merk": "Zara", "kleur": "Blauw", "kenmerk": "Lange blauwe broek met wijde pijpen"},
+        {"id": "5", "categorie": "onderkleding", "type": "Panty", "merk": "Hema", "kleur": "Wit", "kenmerk": "Donkere panty, geen patroon"},
+        {"id": "6", "categorie": "bovenkleding", "type": "Jas", "merk": "Zara", "kleur": "Rood", "kenmerk": "Felle rode dikke warme winterjas"}
+    ],
+    "soortenKleuren": [
+        {"naam": "Blauw"},
+        {"naam": "Rood"},
+        {"naam": "Groen"},
+        {"naam": "Geel"},
+        {"naam": "Oranje"},
+        {"naam": "Paars"},
+        {"naam": "Roze"},
+        {"naam": "Zwart"},
+        {"naam": "Wit"},
+        {"naam": "Grijs"},
+        {"naam": "Beige"},
+        {"naam": "Bruin"}
+    ]
+}
