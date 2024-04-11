@@ -6,6 +6,9 @@ Hierna hebben we het interview met Petra gehad. In het begin was het een beetje 
 
 Wat ik vandaag geleerd heb is hoe blinde mensen daadwerkelijk gebruik maken van een website. Ook realiseer ik me nu hoe belangrijk naamgeving en een omschrijving van elementen kan zijn. Iets is al snel onduidelijk.
 
+### 04-03-2024 & 05-03-2024
+Beide dagen was ik erg ziek en kon ik niet aan de opdracht werken of feedback krijgen.
+
 ### Ontwerp applicatie (10-04-2024)
 Vandaag heb ik mij gebogen over een design voor mijn project. Hieronder is het ontwerp te zien:
 
