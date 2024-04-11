@@ -6,16 +6,13 @@ Hierna hebben we het interview met Petra gehad. In het begin was het een beetje 
 
 Wat ik vandaag geleerd heb is hoe blinde mensen daadwerkelijk gebruik maken van een website. Ook realiseer ik me nu hoe belangrijk naamgeving en een omschrijving van elementen kan zijn. Iets is al snel onduidelijk.
 
-### 04-03-2024 & 05-03-2024
+### 04-04-2024 & 05-04-2024
 Beide dagen was ik erg ziek en kon ik niet aan de opdracht werken of feedback krijgen.
 
 ### Ontwerp applicatie (10-04-2024)
 Vandaag heb ik mij gebogen over een design voor mijn project. Hieronder is het ontwerp te zien:
 
-
-
 Bij nader inzien heb ik het ontwerp aangepast. Ik wilde graag met een json werken en had er moeite mee om dit makkelijk via client-side op te lossen. Daarom ben ik overgestapt naar EJS, maar voor volgende week wil ik dit eigenlijk weer ombouwen naar client-side, omdat ik hierdoor makkelijker toegang heb tot client-side javascript. Ondanks dat ik nu weet hoe ik in mijn applicatie met json kan werken, vind ik het nog erg lastig om mijn huidige ontwerp te realiseren. Ik heb het daarom wat simpeler aangepakt en het resultaat is hieronder te zien:
-
 
 Dit ontwerp ga ik morgen laten testen door Petra. Mijn waarnemingen ga ik noteren.
 
