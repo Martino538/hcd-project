@@ -1,12 +1,12 @@
 # Proces verslag
-### Feedback 03-03-2024
+### Introductie project (03-03-2024)
 Vandaag was de introductie van de opdracht. We zijn als groepje bij elkaar gekomen om een aantal vragen op te stellen voor het interview. Deze vragen staan hieronder vermeld:
 
 Hierna hebben we het interview met Petra gehad. In het begin was het een beetje grip vinden in het stellen van de vragen. Vooraf was ik een klein beetje zenuwachtig, omdat Petra toch een handicap heeft. Echter verliep het gesprek vrij soepel en waren de zenuwen niet nodig. Als ze in een groep aanwezig is voelt het net alsof ze geen handicap heeft. Na het interview hebben we als groep alle aantekeningen gedeeld. Deze zijn hieronder te zien:
 
 Wat ik vandaag geleerd heb is hoe blinde mensen daadwerkelijk gebruik maken van een website. Ook realiseer ik me nu hoe belangrijk naamgeving en een omschrijving van elementen kan zijn. Iets is al snel onduidelijk.
 
-### 10-04-2024
+### Ontwerp applicatie (10-04-2024)
 Vandaag heb ik mij gebogen over een design voor mijn project. Hieronder is het ontwerp te zien:
 
 
